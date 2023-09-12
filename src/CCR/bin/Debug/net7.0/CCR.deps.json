@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CCR/1.0.0": {
+        "dependencies": {
+          "pteidlib_dotnet": "3.11.0.5012"
+        },
+        "runtime": {
+          "CCR.dll": {}
+        }
+      },
+      "pteidlib_dotnet/3.11.0.5012": {
+        "runtime": {
+          "pteidlib_dotnet.dll": {
+            "assemblyVersion": "3.11.0.5012",
+            "fileVersion": "3.11.0.5012"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CCR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pteidlib_dotnet/3.11.0.5012": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

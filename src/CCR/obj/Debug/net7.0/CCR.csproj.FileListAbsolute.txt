@@ -1,0 +1,14 @@
+E:\github\ccr\src\CCR\bin\Debug\net7.0\CCR.deps.json
+E:\github\ccr\src\CCR\bin\Debug\net7.0\CCR.dll
+E:\github\ccr\src\CCR\bin\Debug\net7.0\CCR.pdb
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.csproj.AssemblyReference.cache
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.AssemblyInfoInputs.cache
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.AssemblyInfo.cs
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.csproj.CoreCompileInputs.cache
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.dll
+E:\github\ccr\src\CCR\obj\Debug\net7.0\refint\CCR.dll
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.pdb
+E:\github\ccr\src\CCR\obj\Debug\net7.0\ref\CCR.dll
+E:\github\ccr\src\CCR\bin\Debug\net7.0\pteidlib_dotnet.dll
+E:\github\ccr\src\CCR\obj\Debug\net7.0\CCR.csproj.CopyComplete
