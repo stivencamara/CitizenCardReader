@@ -50,46 +50,19 @@ namespace CCRTest
         [TestMethod]
         public void CanShould_SignMultipleDocument()
         {
-            //using (var context = ContextFactory.Instance.Establish(SCardScope.System))
-            //{
-            //    var readerNames = context.GetReaders();
+            var monitor = new CardReaderMonitor();
 
-            //    if (readerNames == null || readerNames.Length == 0)
-            //    {
-            //        Console.WriteLine("Nenhum leitor de smart card encontrado.");
-            //        return;
-            //    }
+            monitor.StatusChange += Monitor_StatusChange;
 
-            //    Console.WriteLine("Leitores de smart card disponíveis:");
-            //    foreach (var readerName1 in readerNames)
-            //    {
-            //        Console.WriteLine(readerName1);
-            //    }
-
-            //    var readerName = readerNames[0]; // Escolha o leitor de smart card que você deseja verificar
-
-            //    using (var reader = context.ConnectReader(readerName, SCardShareMode.Shared, SCardProtocol.T0 | SCardProtocol.T1))
-            //    {
-            //        var state = reader.GetStatus();
-
-            //        if (state.State == SCardState.Present)
-            //        {
-            //            Console.WriteLine($"Cartão presente no leitor {readerName}.");
-            //        }
-            //        else if (state.State == SCardState.Unknown)
-            //        {
-            //            Console.WriteLine($"Nenhum cartão no leitor {readerName}.");
-            //        }
-            //        else
-            //        {
-            //            Console.WriteLine($"Estado desconhecido no leitor {readerName}.");
-            //        }
-            //    }
-            //}
-
-            //Console.WriteLine("Pressione Enter para sair.");
-            //Console.ReadLine();
+            monitor.Start();
         }
 
+        private void Monitor_StatusChange(object sender, CardReaderStatusChangeEventArgs e)
+        {
+            if(e.Status == CardReaderStatusChange.CardRemoved || e.Status == CardReaderStatusChange.CardInserted)
+            {
+                Assert.IsTrue(true);
+            }
+        }
     }
 }

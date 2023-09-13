@@ -1,0 +1,15 @@
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\MonitorReaderEvents.exe.config
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\MonitorReaderEvents.exe
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\MonitorReaderEvents.pdb
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\PCSC.dll
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\PCSC.pdb
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\PCSC.xml
+E:\github\ccr\demos\MonitorReaderEvents\obj\Debug\MonitorReaderEvents.csproj.AssemblyReference.cache
+E:\github\ccr\demos\MonitorReaderEvents\obj\Debug\MonitorReaderEvents.csproj.SuggestedBindingRedirects.cache
+E:\github\ccr\demos\MonitorReaderEvents\obj\Debug\MonitorReaderEvents.csproj.CoreCompileInputs.cache
+E:\github\ccr\demos\MonitorReaderEvents\obj\Debug\MonitorReaderEvents.csproj.CopyComplete
+E:\github\ccr\demos\MonitorReaderEvents\obj\Debug\MonitorReaderEvents.exe
+E:\github\ccr\demos\MonitorReaderEvents\obj\Debug\MonitorReaderEvents.pdb
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\PCSC.Iso7816.dll
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\PCSC.Iso7816.pdb
+E:\github\ccr\demos\MonitorReaderEvents\bin\Debug\PCSC.Iso7816.xml

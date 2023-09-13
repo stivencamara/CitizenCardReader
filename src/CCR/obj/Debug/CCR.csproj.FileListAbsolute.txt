@@ -8,3 +8,6 @@ E:\github\ccr\src\CCR\bin\Debug\CSJ2K.pdb
 E:\github\ccr\src\CCR\obj\Debug\CCR.csproj.CopyComplete
 E:\github\ccr\src\CCR\obj\Debug\CCR.dll
 E:\github\ccr\src\CCR\obj\Debug\CCR.pdb
+E:\github\ccr\src\CCR\bin\Debug\PCSC.dll
+E:\github\ccr\src\CCR\bin\Debug\PCSC.pdb
+E:\github\ccr\src\CCR\bin\Debug\PCSC.xml
