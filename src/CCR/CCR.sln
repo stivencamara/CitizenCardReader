@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCR", "CCR.csproj", "{AE1C8137-6DBE-4DD0-99BC-9E6BBEB48BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCRTest", "..\CCRTest\CCRTest.csproj", "{4E26A145-6A23-43BD-B48F-9860739CB2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE1C8137-6DBE-4DD0-99BC-9E6BBEB48BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1C8137-6DBE-4DD0-99BC-9E6BBEB48BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1C8137-6DBE-4DD0-99BC-9E6BBEB48BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1C8137-6DBE-4DD0-99BC-9E6BBEB48BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E26A145-6A23-43BD-B48F-9860739CB2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E26A145-6A23-43BD-B48F-9860739CB2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E26A145-6A23-43BD-B48F-9860739CB2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E26A145-6A23-43BD-B48F-9860739CB2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4EB9402-41BE-4F0F-920F-8D63340EDC2C}
+	EndGlobalSection
+EndGlobal

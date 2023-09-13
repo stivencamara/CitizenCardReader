@@ -1,0 +1,10 @@
+E:\github\ccr\src\CCR\obj\Debug\CCR.csproj.AssemblyReference.cache
+E:\github\ccr\src\CCR\obj\Debug\CCR.csproj.CoreCompileInputs.cache
+E:\github\ccr\src\CCR\bin\Debug\CCR.dll
+E:\github\ccr\src\CCR\bin\Debug\CCR.pdb
+E:\github\ccr\src\CCR\bin\Debug\CSJ2K.dll
+E:\github\ccr\src\CCR\bin\Debug\pteidlib_dotnet.dll
+E:\github\ccr\src\CCR\bin\Debug\CSJ2K.pdb
+E:\github\ccr\src\CCR\obj\Debug\CCR.csproj.CopyComplete
+E:\github\ccr\src\CCR\obj\Debug\CCR.dll
+E:\github\ccr\src\CCR\obj\Debug\CCR.pdb
