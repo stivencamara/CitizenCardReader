@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKEr9+riMESwlJM9A0bKYq9KOMEsd8rsfXvC093zn/vjWZSvyBxQa9M3Xg+t0WHwODGSyrKHd7/yBbcUDdYtWQ==",
+  "success": true,
+  "projectFilePath": "E:\\github\\ccr\\demos\\XCeed\\XCeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stive\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\stive\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\stive\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\stive\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\stive\\.nuget\\packages\\xceed.document.net\\2.1.21565.13360\\xceed.document.net.2.1.21565.13360.nupkg.sha512",
+    "C:\\Users\\stive\\.nuget\\packages\\xceed.pdf\\2.1.21565.13360\\xceed.pdf.2.1.21565.13360.nupkg.sha512",
+    "C:\\Users\\stive\\.nuget\\packages\\xceed.words.net\\2.1.21565.13360\\xceed.words.net.2.1.21565.13360.nupkg.sha512"
+  ],
+  "logs": []
+}

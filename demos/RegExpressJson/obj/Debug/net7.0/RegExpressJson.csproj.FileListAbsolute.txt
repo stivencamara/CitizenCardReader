@@ -1,0 +1,15 @@
+E:\github\ccr\demos\RegExpressJson\bin\Debug\net7.0\RegExpressJson.exe
+E:\github\ccr\demos\RegExpressJson\bin\Debug\net7.0\RegExpressJson.deps.json
+E:\github\ccr\demos\RegExpressJson\bin\Debug\net7.0\RegExpressJson.runtimeconfig.json
+E:\github\ccr\demos\RegExpressJson\bin\Debug\net7.0\RegExpressJson.dll
+E:\github\ccr\demos\RegExpressJson\bin\Debug\net7.0\RegExpressJson.pdb
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.csproj.AssemblyReference.cache
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.AssemblyInfoInputs.cache
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.AssemblyInfo.cs
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.csproj.CoreCompileInputs.cache
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.dll
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\refint\RegExpressJson.dll
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.pdb
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\RegExpressJson.genruntimeconfig.cache
+E:\github\ccr\demos\RegExpressJson\obj\Debug\net7.0\ref\RegExpressJson.dll

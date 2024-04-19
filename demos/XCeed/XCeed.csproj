@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xceed.Document.NET" Version="2.1.21565.13360" />
+    <PackageReference Include="Xceed.Pdf" Version="2.1.21565.13360" />
+    <PackageReference Include="Xceed.Words.NET" Version="2.1.21565.13360" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Report.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

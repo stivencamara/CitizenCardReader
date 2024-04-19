@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExpressJson", "RegExpressJson.csproj", "{DCEC75B9-8532-4DDD-81AE-065164BB0DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEC75B9-8532-4DDD-81AE-065164BB0DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEC75B9-8532-4DDD-81AE-065164BB0DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEC75B9-8532-4DDD-81AE-065164BB0DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEC75B9-8532-4DDD-81AE-065164BB0DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33EDF8B8-23A1-4728-A443-3266AA312598}
+	EndGlobalSection
+EndGlobal
